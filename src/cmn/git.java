@@ -9,5 +9,6 @@ public class git {
         System.out.println("dog git5");
         System.out.println("master git6");
         System.out.println("push 2");
+        Syste.out.println("1111111111111111111111");
     }
 }
